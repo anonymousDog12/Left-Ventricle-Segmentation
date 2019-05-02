@@ -1,7 +1,7 @@
 # Cardiac MR Left Ventricle Segmentation
 UCLA-CS269 Project -- Cardiac MR Left Ventricle Segmentation Challenge.
 
-### Abstraction
+### Abstract
 Image segmentation of the left ventricle from cardiac magnetic resonance imaging is a crucial but tedious step for clinical cardiac health diagnosis. In this project, we proposed to use convolutional neural network combined with deformable model to conduct medical image segmentation. A three-step approach is proposed to deal with the low-contrast nature of medical image and relative small size of available data. Finally, the performance of the segmentation algorithm is evaluated from both quantitative and qualitative aspects.  
 
   
